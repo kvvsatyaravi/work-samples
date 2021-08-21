@@ -1,6 +1,6 @@
 # projects
 [blog website](fri3ndzz.md)<br>
-[disaster management](https://github.com/kvvsatyaravi/disaster-management)<br>
-[ismart data visualizer](https://github.com/kvvsatyaravi/ismart-data-visualizer)<br>
-[dummy chatbot](https://share.streamlit.io/kvvsatyaravi/streamlit-dummy/main/main.py)<br>
-[online files sharing](www.share.fri3ndzz.com)
+[disaster management](disastermanagement.md)<br>
+[ismart data visualizer](ismartdatavisualizer.md)<br>
+[dummy chatbot](dummy chatbot.md)<br>
+[online files sharing](filesshare.md)
