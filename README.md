@@ -4,3 +4,4 @@
 [ismart data visualizer](ismartdatavisualizer.md)<br>
 [dummy chatbot](dummychatbot.md)<br>
 [online files sharing](filesshare.md)
+[director website](director.md)
