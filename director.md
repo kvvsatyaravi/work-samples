@@ -1,3 +1,3 @@
 
 # director website
-(link)[http://rcvisuals.epizy.com/]
+[link](http://rcvisuals.epizy.com/)
