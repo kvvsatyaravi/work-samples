@@ -3,4 +3,4 @@ Fri3ndzz is a media based website. here we want to spread news only on some sect
 these is the first version of the website so we want to represent the news in article format so it will only in text format on upcoming versions we will add new features. the articles we are posting may be older news but we will check whether the topic is usefull or not that may helpful for at least few people. 
 
 # website link
-[blog website](http://www.epizy.fri3ndzz.com)
+[blog website](http://www.fri3ndzz.epizy.com)
