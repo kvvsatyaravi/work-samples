@@ -25,7 +25,7 @@ design.
 - Python,Html,Css,JAvascript,Django(Web Framework)
 
 # project video link
-[link](https://youtu.be/WUp4Mk89g6I)
+[youtube link](https://youtu.be/WUp4Mk89g6I)
 
 # source code
 [code](https://github.com/kvvsatyaravi/disaster-management)
