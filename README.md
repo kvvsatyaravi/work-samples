@@ -1,5 +1,5 @@
 # Work samples
-[Stock Market Tracker] (https://github.com/kvvsatyaravi/stockmarketTracker) <br>
+[Stock Market Tracker](https://github.com/kvvsatyaravi/stockmarketTracker) <br>
 StockMarket Tracker - Designed and developed a full-stack web application focused on financial data aggregation using web
 scraping techniques.
 Project Live Website Link - https://www.stockmarkettracker.ksrk3.in <br>
