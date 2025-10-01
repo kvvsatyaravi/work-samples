@@ -1,5 +1,6 @@
 # Work samples
 (20 - Jul - 2025)  [Stock Market Tracker](https://github.com/kvvsatyaravi/stockmarketTracker) <br> 
+<pre>
 Technologies / Modules:
        Frontend - React.js, JavaScript, bootstrap, Antd, css,html
        Backend - Python, Django framework, REST Framework
@@ -9,10 +10,12 @@ Project link: https://www.stockmarkettracker.ksrk3.in
 Description:
        Designed and developed a full-stack web application focused on financial data aggregation using web
        scraping techniques.
+</pre>
  <br>
  
 (2021) [blog website](fri3ndzz.md)<br><br> 
 (2020) [disaster management](disastermanagement.md)<br>
+<pre>
 Technologies / Modules:
         Frontend – Html, CSS, JavaScript
         Backend - Python, Django framework, rest Api
@@ -20,6 +23,7 @@ Description:
         A disaster is a serious disruption in the functioning of a community or a society, which exceed the ability of the
         affected community or the society to cope using its own resources; for instance, there is a widespread human,
         economic, environmental and material impact due to turbulent cyclones.
+</pre>
 <br>  
 
 (2021) [ismart data visualizer](ismartdatavisualizer.md)<Br>
