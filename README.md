@@ -27,19 +27,22 @@ Description:
 <br>  
 
 (2021) [ismart data visualizer](ismartdatavisualizer.md)<Br>
+<pre>
 Technologies / Modules:
        Backend - Python, Thinker (GUI)
 Description:
        Excel Filter is a tool it is used to filter the data of excel, csv files.it supports only integer values to filter now it is
        demo version.
 <br> 
-
+</pre>
 (2021) [dummy chatbot](dummychatbot.md)<br>
+<pre>
 Technologies / Modules:
         Backend - Python, modules - (streamlit, torch, urllib)
 Description:
        Developed a simple chatbot using PyTorch, trained on an intents file to generate context-based responses to
        user inputs.
+</pre>
 <br> 
 
 (2022) [online files sharing](filesshare.md)<br> <br> 
