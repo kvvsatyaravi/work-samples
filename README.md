@@ -21,6 +21,7 @@ Description:
         affected community or the society to cope using its own resources; for instance, there is a widespread human,
         economic, environmental and material impact due to turbulent cyclones.
 <br>  
+
 (2021) [ismart data visualizer](ismartdatavisualizer.md)<Br>
 Technologies / Modules:
        Backend - Python, Thinker (GUI)
@@ -28,6 +29,7 @@ Description:
        Excel Filter is a tool it is used to filter the data of excel, csv files.it supports only integer values to filter now it is
        demo version.
 <br> 
+
 (2021) [dummy chatbot](dummychatbot.md)<br>
 Technologies / Modules:
         Backend - Python, modules - (streamlit, torch, urllib)
@@ -35,5 +37,6 @@ Description:
        Developed a simple chatbot using PyTorch, trained on an intents file to generate context-based responses to
        user inputs.
 <br> 
+
 (2022) [online files sharing](filesshare.md)<br> <br> 
 (2021) [director website](director.md) 
