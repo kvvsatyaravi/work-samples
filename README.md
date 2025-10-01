@@ -4,9 +4,9 @@ StockMarket Tracker - Designed and developed a full-stack web application focuse
 scraping techniques.
 Project Live Website Link - https://www.stockmarkettracker.ksrk3.in <br>
  
-[blog website](fri3ndzz.md)<br>  (2021)
-[disaster management](disastermanagement.md)<br>  (2020)
-[ismart data visualizer](ismartdatavisualizer.md)<br> (2021)
-[dummy chatbot](dummychatbot.md)<br> (2021)
-[online files sharing](filesshare.md)<br>  (2022)
-[director website](director.md) (2021)
+(2021) [blog website](fri3ndzz.md)<br><br> 
+(2020) [disaster management](disastermanagement.md)<br> <br>  
+(2021) [ismart data visualizer](ismartdatavisualizer.md)<br><br> 
+(2021) [dummy chatbot](dummychatbot.md)<br><br> 
+(2022) [online files sharing](filesshare.md)<br> <br> 
+(2021) [director website](director.md) 
